@@ -729,4 +729,4 @@ npx prisma generate
 - [Prisma TypeScript Guide](https://www.prisma.io/docs/concepts/components/prisma-client/working-with-prismaclient/use-custom-model-and-field-names)
 - [Express with TypeScript](https://expressjs.com/en/advanced/best-practice-performance.html)
 
-**Happy TypeScript Development! 🚀**
+**Happy TypeScript Development!**

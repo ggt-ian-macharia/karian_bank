@@ -572,7 +572,7 @@ cron.schedule('0 * * * *', async () => {
 
 ## 10. Best Practices
 
-### 10.1 DO's ✅
+### 10.1 DO's
 
 1. **Always use idempotency keys for critical operations** (transactions, payments)
 2. **Generate keys on the client side** (not server-side)
@@ -582,7 +582,7 @@ cron.schedule('0 * * * *', async () => {
 6. **Return same status code** for duplicate requests
 7. **Use database transactions** to ensure atomicity
 
-### 10.2 DON'Ts ❌
+### 10.2 DON'Ts
 
 1. **Don't generate idempotency keys on the server** (defeats the purpose)
 2. **Don't use sequential IDs** (predictable, not unique across clients)
