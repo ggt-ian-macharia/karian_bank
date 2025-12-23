@@ -176,7 +176,7 @@ See [Folder Structure](docs/architecture/folder-structure.md) for detailed expla
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ```bash
 # Run all tests
@@ -197,7 +197,7 @@ npm test -- tests/unit/services/transaction.service.test.js
 
 ---
 
-## 📖 API Documentation
+## API Documentation
 
 Once the server is running, API documentation is available at:
 
@@ -207,7 +207,7 @@ http://localhost:3000/api-docs
 
 ---
 
-## 🔐 Environment Variables
+## Environment Variables
 
 See `.env.example` for all required environment variables:
 
@@ -235,7 +235,7 @@ REDIS_PORT=6379
 
 ---
 
-## 🛠️ Development Scripts
+## Development Scripts
 
 ```bash
 # Start development server with hot reload
@@ -259,7 +259,7 @@ npm run prisma:generate
 
 ---
 
-## 📊 Learning Outcomes
+## Learning Outcomes
 
 By completing this project, you will learn:
 
@@ -299,7 +299,7 @@ By completing this project, you will learn:
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 See [Implementation Roadmap](docs/implementation-roadmap.md) for the complete 14-week development plan.
 
@@ -307,7 +307,7 @@ See [Implementation Roadmap](docs/implementation-roadmap.md) for the complete 14
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This is a learning project. Feel free to:
 - Experiment with different approaches
@@ -317,13 +317,13 @@ This is a learning project. Feel free to:
 
 ---
 
-## 📝 License
+## License
 
 This project is for educational purposes.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Built to learn enterprise-level software engineering practices in:
 - Multi-tenancy
@@ -334,8 +334,8 @@ Built to learn enterprise-level software engineering practices in:
 
 ---
 
-## 📞 Support
+## Support
 
 For questions or clarifications, refer to the comprehensive documentation in the `docs/` directory.
 
-**Happy Learning! 🚀**
+**Happy Learning!**
